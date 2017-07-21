@@ -1,0 +1,18 @@
+D:\VS2008_Codes\CNBlogManager\CNBlogManager\obj\Debug\ResolveAssemblyReference.cache
+D:\VS2008_Codes\CNBlogManager\CNBlogManager\obj\Debug\CNBlogManager.Form1.resources
+D:\VS2008_Codes\CNBlogManager\CNBlogManager\obj\Debug\CNBlogManager.Properties.Resources.resources
+D:\VS2008_Codes\CNBlogManager\CNBlogManager\obj\Debug\CNBlogManager.csproj.GenerateResource.Cache
+D:\VS2008_Codes\CNBlogManager\CNBlogManager\bin\Debug\CNBlogManager.exe
+D:\VS2008_Codes\CNBlogManager\CNBlogManager\bin\Debug\CNBlogManager.pdb
+D:\VS2008_Codes\CNBlogManager\CNBlogManager\obj\Debug\CNBlogManager.exe
+D:\VS2008_Codes\CNBlogManager\CNBlogManager\obj\Debug\CNBlogManager.pdb
+D:\VS2008_Codes\CNBlogManager\CNBlogManager\obj\Debug\CNBlogManager.MainForm.resources
+H:\我的自动备份文件夹\Tommy_Codes\visual studio 2008\CNBlogManager\CNBlogManager\obj\Debug\CNBlogManager.exe
+H:\我的自动备份文件夹\Tommy_Codes\visual studio 2008\CNBlogManager\CNBlogManager\obj\Debug\CNBlogManager.pdb
+H:\我的自动备份文件夹\Tommy_Codes\visual studio 2008\CNBlogManager\CNBlogManager\bin\Debug\CNBlogManager.exe
+H:\我的自动备份文件夹\Tommy_Codes\visual studio 2008\CNBlogManager\CNBlogManager\bin\Debug\CNBlogManager.pdb
+H:\我的自动备份文件夹\Tommy_Codes\visual studio 2008\CNBlogManager\CNBlogManager\obj\Debug\CNBlogManager.csprojResolveAssemblyReference.cache
+H:\我的自动备份文件夹\Tommy_Codes\visual studio 2008\CNBlogManager\CNBlogManager\obj\Debug\CNBlogManager.Form1.resources
+H:\我的自动备份文件夹\Tommy_Codes\visual studio 2008\CNBlogManager\CNBlogManager\obj\Debug\CNBlogManager.MainForm.resources
+H:\我的自动备份文件夹\Tommy_Codes\visual studio 2008\CNBlogManager\CNBlogManager\obj\Debug\CNBlogManager.Properties.Resources.resources
+H:\我的自动备份文件夹\Tommy_Codes\visual studio 2008\CNBlogManager\CNBlogManager\obj\Debug\CNBlogManager.csproj.GenerateResource.Cache
